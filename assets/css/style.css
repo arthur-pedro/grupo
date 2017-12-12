@@ -179,18 +179,6 @@ button {
 }
 
 
-.scale button:hover{
-  background: black;
-}
-
- button:hover{
-  background: black;
-  border-radius: 40px;
-  background: black ;
-  color:#FFF842;
-  padding: 10px 37px;
-  margin: 10px 0 20px 60px;
-}
 
 .scale {
   transform: scale(1.2);
